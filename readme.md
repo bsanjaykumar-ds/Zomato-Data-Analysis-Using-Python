@@ -26,7 +26,7 @@ Before analysis, the data required minor cleaning:
 ## Key Insights & Visualizations
 
 ### 1. Online Ordering vs. Ratings
-![Online Orders vs Ratings](images.png/ratings%20comparsion.png)
+![Online Orders vs Ratings](images/ratings%20comparsion.png)
 
 **Finding:** Offline orders received lower ratings in comparison to online orders which obtained excellent ratings.
 
@@ -34,7 +34,7 @@ Before analysis, the data required minor cleaning:
 **Finding:** The data reveals that **Empire Restaurant** is the market leader in terms of total customer engagement, holding the absolute maximum number of votes across the dataset.
 
 ### 3. Restaurant Category Distribution
- ![rating distribution](images.png/rating%20distribution.png)
+ ![rating distribution](images/rating%20distribution.png)
 
 **Finding:** The majority of restaurants received ratings ranging from 3.5 to 4.
 
